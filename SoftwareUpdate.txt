@@ -1,1 +1,1 @@
-Fix docs links (#7096)
+Fix cmake requirements for ARM64 (#8589)
