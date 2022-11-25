@@ -1,1 +1,1 @@
-Fix cmake requirements for ARM64 (#8589)
+Faster batch same_shapes (#8851)
