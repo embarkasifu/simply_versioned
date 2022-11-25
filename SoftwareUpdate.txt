@@ -1,1 +1,1 @@
-Cleanup Docs languages (#7865)
+Fix docs links (#7096)
